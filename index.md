@@ -3,4 +3,4 @@ layout: page
 title: Jin Woo
 ---
 
-First time using Boostrap template
+First time using Bootstrap template
