@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jin Woo
+title: Home Page
 ---
 
 First time using Bootstrap template
